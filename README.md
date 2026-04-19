@@ -1,4 +1,4 @@
-## Hi, I'M Saksham 👋
+## Hi, I'm Saksham 👋
 
 # 💫 About Me:
 Passionate about Data Science, AI, Machine Learning, and Deep Learning.<br>Working across forecasting, computer vision, NLP, and document RAG, with a focus on building end-to-end projects from data preprocessing to modelling, debugging, and evaluation.<br>Currently exploring more work around medical data and document intelligence.
